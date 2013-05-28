@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolrIKVM", "SolrIKVM\SolrIKVM.csproj", "{B2306C49-9F51-4176-BCC6-9D001F3BBFB6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolrAspNet", "SolrAspNet\SolrAspNet.csproj", "{733C092D-BBD2-4042-B939-4DBBE0655DB0}"
